@@ -1,0 +1,12 @@
+table, td {
+    border: 1px solid black;
+}
+
+#titulo {
+    font-weight: bold;
+    text-align: center;
+}
+
+#espana {
+    font-weight: bold;
+}

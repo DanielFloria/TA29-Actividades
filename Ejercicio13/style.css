@@ -1,0 +1,37 @@
+h2 {
+    text-align: center;
+    font-size: medium;
+}
+
+table {
+    border-style: ridge;
+    margin:4px 4px 4px 4px;
+    box-sizing: border-box;
+    margin-block: 4px;
+    width: 100%;
+}
+
+td {
+    border: 1px grey solid;
+    text-align: center;
+    font-weight: bold;
+}
+
+#celda1 {
+    background-color: rgb(47, 255, 134);
+}
+
+#celda2 {
+    text-align: left;
+    background-color: cyan;
+}
+
+#celda6 {
+    vertical-align: bottom;
+    text-align: end;
+    background-color: rgb(216, 112, 207);
+}
+
+.rojo {
+    color: red;
+}

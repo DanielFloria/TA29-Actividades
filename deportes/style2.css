@@ -1,0 +1,35 @@
+div {
+    margin: 4px;
+    border: 1.5px solid #34b3ff;
+    width:max-content;
+    box-shadow: inset -4px -4px 4px #888;
+    
+}
+
+table {
+    margin:4px 4px 4px 4px;
+    box-sizing: border-box;
+    margin-block: 4px;
+}
+
+tr {
+    background-color: #b6ecb5;
+}
+
+#tercero {
+    background-color: #7ab980;
+}
+
+table, tr, th, td{
+    border: 1.5px solid #34b3ff;
+    border-collapse:separate;
+}
+
+th {
+    color: #b6ecb5;
+    background-color: #0f420e;
+}
+
+.centrado {
+    text-align: center;
+}

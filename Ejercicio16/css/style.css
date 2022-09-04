@@ -1,0 +1,30 @@
+table {
+    background-image: url("../resources/huellas.PNG");
+    background-color: beige;
+    border-style: ridge;
+    margin:4px 4px 4px 4px;
+    box-sizing: border-box;
+    margin-block: 4px;
+    margin: auto;
+    margin-top: auto;
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+td {
+    border: 1.5px black solid;
+    text-align: center;
+    color: brown;
+}
+
+.fondo-verde {
+    background-color: rgb(83, 145, 83);
+}
+
+.fondo-naranja {
+    background-color: rgb(255, 201, 100);
+}
+
+.fondo-amarillo {
+    background-color: rgb(255, 255, 98);
+}
