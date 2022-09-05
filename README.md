@@ -1,8 +1,8 @@
 # TA29-Actividades
-Ejercicio 11: https://danielfloria.github.io/TA29-Actividades/deportes/donde/  
-https://danielfloria.github.io/TA29-Actividades/deportes/donde2/  
+Ejercicio 11: https://danielfloria.github.io/TA29-Actividades/deportes/donde.html/  
+https://danielfloria.github.io/TA29-Actividades/deportes/donde2.html/  
 
-Ejercicio 12: https://danielfloria.github.io/TA29-Actividades/deportes/instalaciones/  
+Ejercicio 12: https://danielfloria.github.io/TA29-Actividades/deportes/instalaciones.html/  
 
 Ejercicio 13: https://danielfloria.github.io/TA29-Actividades/Ejercicio13/  
 
